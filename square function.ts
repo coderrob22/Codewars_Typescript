@@ -1,0 +1,1 @@
+export let square =(input: number)=> input*input 
